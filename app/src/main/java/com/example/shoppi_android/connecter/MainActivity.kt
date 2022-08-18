@@ -9,8 +9,8 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        println("깃허브연")
-        Log.d("asdf","asdf")
+        println("두번째 테스")
+
 
 
     }
